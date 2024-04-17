@@ -1,4 +1,4 @@
-<a href="https://expanse.so" target="_blank"><img width="300" src="https://github.com/expanse-agency/.github/blob/main/images/logo.png?raw=true"></a>
+<a href="https://pointers.agency" target="_blank"><img width="300" src="https://github.com/wearepointers/.github/blob/main/images/logo.png?raw=true"></a>
 
 # About us
 
@@ -8,7 +8,7 @@ We are innovative, creative, flexible, fast, and ambitious. We are Expanse.
 
 ## We love Open Source
 
-Open Source code powers the internet. We try to give back to the community by fixing, improving, and sponsoring open source projects. We are always looking to improve the developer experience by creating tools and libraries that make our lives easier. We publish those tools and libraries as open source projects on our [Github](https://github.com/expanse-agency) page.
+Open Source code powers the internet. We try to give back to the community by fixing, improving, and sponsoring open source projects. We are always looking to improve the developer experience by creating tools and libraries that make our lives easier. We publish those tools and libraries as open source projects on our [Github](https://github.com/wearepointers) page.
 
 ## We love these technologies
 
@@ -61,9 +61,9 @@ We use Docker to containerize our applications and Kubernetes to orchestrate the
 
 ## We love to build 
 
-Got something in mind or want advice? Feel free to contact us on our [website](https://expanse.so/contact) or at [hello@expanse.so](mailto:hello@expanse.so). 
+Got something in mind or want advice? Feel free to contact us on our [website](https://pointers.agency/contact) or at [hello@pointers.agency](mailto:hello@pointers.agency). 
 
 ## We love to share
 
-Read our blog posts to learn more about our projects, technologies, and experiences. You can find our blog posts on our [website](https://expanse.so/blog).
+Read our blog posts to learn more about our projects, technologies, and experiences. You can find our blog posts on our [website](https://pointers.agency/blog).
 
