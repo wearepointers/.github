@@ -1,4 +1,4 @@
-<a href="https://pointers.agency" target="_blank"><img width="300" src="https://github.com/wearepointers/.github/blob/main/images/logo.png?raw=true"></a>
+<a href="https://pointers.agency" target="_blank"><img width="300" src="https://github.com/wearepointers/.github/blob/main/images/pointers-logo-horizontal.png?raw=true"></a>
 
 # About us
 
